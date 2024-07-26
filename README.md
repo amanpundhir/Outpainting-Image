@@ -24,7 +24,7 @@ Before running the script, make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/image-outpainting.git
+git clone https://github.com/amanpundhir/Outpainting-Image.git
 cd image-outpainting
 ```
 
